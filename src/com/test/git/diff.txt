@@ -1,0 +1,2 @@
+测试 git diff命令
+第一次修改后，再执行git diff命令
